@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HydroponicSensorProject.Server", "HydroponicSensorProject\Server\HydroponicSensorProject.Server.csproj", "{F8658E35-7D44-4029-BB0F-C9BA1CA77F14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HydroponicSensorProject.Client", "HydroponicSensorProject\Client\HydroponicSensorProject.Client.csproj", "{1A943194-A2FD-48DE-BFF2-3AB84CADA3BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HydroponicSensorProject.Shared", "HydroponicSensorProject\Shared\HydroponicSensorProject.Shared.csproj", "{65D3659D-5A8B-4257-ADD5-C09F097C343F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8658E35-7D44-4029-BB0F-C9BA1CA77F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8658E35-7D44-4029-BB0F-C9BA1CA77F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8658E35-7D44-4029-BB0F-C9BA1CA77F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8658E35-7D44-4029-BB0F-C9BA1CA77F14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A943194-A2FD-48DE-BFF2-3AB84CADA3BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A943194-A2FD-48DE-BFF2-3AB84CADA3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A943194-A2FD-48DE-BFF2-3AB84CADA3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A943194-A2FD-48DE-BFF2-3AB84CADA3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65D3659D-5A8B-4257-ADD5-C09F097C343F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D3659D-5A8B-4257-ADD5-C09F097C343F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D3659D-5A8B-4257-ADD5-C09F097C343F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D3659D-5A8B-4257-ADD5-C09F097C343F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {133607B7-F75A-4C0A-A371-7337749E0733}
+	EndGlobalSection
+EndGlobal
